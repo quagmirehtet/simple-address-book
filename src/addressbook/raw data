@@ -1,0 +1,80 @@
+
+
+===== ADDRESS BOOK MENU =====
+1. Add New Contact
+2. View All Contacts
+3. Search Contact by Name
+4. Delete Contact
+5. Exit
+Choose an option (1-5): 1
+Enter Name: Alice Smith
+Enter Phone Number: 555-0192
+Enter Email: alice@example.com
+Success: Contact added successfully!
+
+===== ADDRESS BOOK MENU =====
+1. Add New Contact
+2. View All Contacts
+3. Search Contact by Name
+4. Delete Contact
+5. Exit
+Choose an option (1-5): 1
+Enter Name: Bob Jones
+Enter Phone Number: 555-0143
+Enter Email: bob@mail.com
+Success: Contact added successfully!
+
+===== ADDRESS BOOK MENU =====
+1. Add New Contact
+2. View All Contacts
+3. Search Contact by Name
+4. Delete Contact
+5. Exit
+Choose an option (1-5): 2
+
+--- All Saved Contacts ---
+Name: Alice Smith     | Phone: 555-0192     | Email: alice@example.com
+Name: Bob Jones       | Phone: 555-0143     | Email: bob@mail.com
+
+===== ADDRESS BOOK MENU =====
+1. Add New Contact
+2. View All Contacts
+3. Search Contact by Name
+4. Delete Contact
+5. Exit
+Choose an option (1-5): 3
+Enter the name to search for: alice
+Found: Name: Alice Smith     | Phone: 555-0192     | Email: alice@example.com
+
+===== ADDRESS BOOK MENU =====
+1. Add New Contact
+2. View All Contacts
+3. Search Contact by Name
+4. Delete Contact
+5. Exit
+Choose an option (1-5): 4
+Enter the exact name of the contact to delete: Bob Jones
+Success: Contact deleted successfully!
+
+===== ADDRESS BOOK MENU =====
+1. Add New Contact
+2. View All Contacts
+3. Search Contact by Name
+4. Delete Contact
+5. Exit
+Choose an option (1-5): 5
+Goodbye!
+
+The unexpenceted output
+Choose and option (1-5) :
+2
+Name : Marn|Phone :Zwe|Email :marn@gmail.com
+Name : 454545|Phone :343424|Email :zwe@gmail.com
+
+Add --> လူ တစ်ယောက် ရဲ့  field သုံး ခု ကို တစ် စု တည်း သိမ်း  class with 3 fields and one constructor
+View --> ထည့် တဲ့ စီ စဥ် တိုင်း ပြန်ထုတ်  Order  
+Search --> Search with "Name" 
+Delete --> Delete with "Name"
+
+
+
